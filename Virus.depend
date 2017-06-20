@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1497913110 source:c:\users\ldas\desktop\virus\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<tchar.h>
+	<direct.h>
+	<io.h>
+	<unistd.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
